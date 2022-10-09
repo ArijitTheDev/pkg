@@ -1,6 +1,6 @@
 {
     "name": "@arijitthedev/test-package",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "📦 npm package tutorial",
     "main": "index.js",
     "scripts": {
