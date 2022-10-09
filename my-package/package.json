@@ -1,5 +1,5 @@
 {
-    "name": "@bradgarropy/my-package",
+    "name": "@arijitthedev/test-package",
     "version": "0.0.1",
     "description": "📦 npm package tutorial",
     "main": "index.js",
@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/bradgarropy/npm-publish.git"
+        "url": "https://github.com/ArijitTheDev/pkg"
     },
     "keywords": [
         "npm",
@@ -26,7 +26,7 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/bradgarropy/npm-publish/issues"
+        "url": "https://github.com/ArijitTheDev/pkg/issues"
     },
-    "homepage": "https://github.com/bradgarropy/npm-publish#readme"
+    "homepage": "https://github.com/ArijitTheDev/pkg#readme"
 }
